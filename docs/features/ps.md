@@ -9,7 +9,7 @@ person
 ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
-|118423
+&nbsp;|118423
 p3|12720
 p2|3474
 p1|2937
