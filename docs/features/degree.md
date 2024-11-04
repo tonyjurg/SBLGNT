@@ -9,7 +9,7 @@ degree
 ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
-|137554
+&nbsp;|137554
 
 Total frequency of feature: 137554.
   
