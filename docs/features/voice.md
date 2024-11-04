@@ -9,7 +9,7 @@ voice
 ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
-|109498
+&nbsp;|109498
 active|20658
 middle|3846
 passive|3552
