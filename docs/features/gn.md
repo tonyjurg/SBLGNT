@@ -9,7 +9,7 @@ gender
 ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
-|63229
+&nbsp;|63229
 m|41584
 f|18837
 n|13904
