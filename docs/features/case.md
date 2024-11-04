@@ -9,7 +9,7 @@ case
 ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
-|58348
+&nbsp;|58348
 nominative|24236
 accusative|23276
 genitive|19569
