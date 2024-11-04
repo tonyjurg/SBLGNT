@@ -9,7 +9,7 @@ tense
 ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
-|62950
+&nbsp;|62950
 aorist|46454
 present|17558
 future|10419
