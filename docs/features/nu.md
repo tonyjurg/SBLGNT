@@ -10,7 +10,7 @@ number
 Value|Occurences
 ---|---
 sg|69465
-|38549
+&nbsp;|38549
 pl|29540
 
 Total frequency of feature: 137554.
