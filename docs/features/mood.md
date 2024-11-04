@@ -9,7 +9,7 @@ mood
 ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
-|109498
+&nbsp;|109498
 indicative|15589
 participle|6640
 infinitive|2285
